@@ -1,0 +1,3 @@
+# Logfile created on 2015-05-13 19:14:19 -0400 by logger.rb/41954
+I, [2015-05-13T19:14:19.046104 #44285]  INFO -- : 0:  rack (1.6.1) from /Users/danielclark/.rvm/gems/ruby-2.0.0-p353/specifications/rack-1.6.1.gemspec
+I, [2015-05-13T19:14:19.046583 #44285]  INFO -- : 0:  bundler (1.5.1) from /Users/danielclark/.rvm/gems/ruby-2.0.0-p353@global/specifications/bundler-1.5.1.gemspec
